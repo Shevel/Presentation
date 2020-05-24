@@ -1,4 +1,11 @@
-Hello! My name is Vladislav and today I will tell you about Canvas.
+# Link on my presentation on [Youtube](https://youtu.be/kqb9HVms_ls)
+## Link on my [Reveal Presentation](https://shevel-presentation.netlify.app/#/)
+## Link on my [Text description](https://github.com/Shevel/Presentation/blob/master/Presentation.md)
+__________________________________
+
+## Text description:
+
+Hello! My name is Vladislav and today I will tell you about **Canvas API**.
 
 Canvas was initially introduced by Apple for use in their own Mac OS X WebKit component in 2004, 
 powering applications like Dashboard widgets and the Safari browser. 
